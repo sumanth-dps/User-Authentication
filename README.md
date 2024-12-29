@@ -1,10 +1,10 @@
 # User-Authentication
 
 # Client
-cd client
-npm install 
-npm run dev
-add .env in client folder and add server side URL as VITE_BACKEND_URL
+-cd client
+-npm install 
+-npm run dev
+-add .env in client folder and add server side URL as VITE_BACKEND_URL
 
 # Server
 cd server
