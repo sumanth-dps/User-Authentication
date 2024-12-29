@@ -18,5 +18,5 @@
 -SMTP_USER
 -SMTP_PASS
 -SENDER_EMAIL
-##ALLOWED_ORIGIN =  client port url
+-ALLOWED_ORIGIN =  client port url
 
